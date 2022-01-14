@@ -101,7 +101,7 @@ Once you have flutter, all you need to do is:
 
 
 ## Note 
-A video recording is added in the screen folder and also images.
+A video recording is added in the testscreen folder and also images.
 
 **Through main page the 3 aruguments are being passed.
 
