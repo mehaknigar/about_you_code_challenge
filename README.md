@@ -38,6 +38,7 @@ The graphical interface is designed using Material Design. Keeping in mind these
 To interact with flutter through the flutter framework as it provides a modern framework in the Dart Language.The project is divided into different layers:
 
 **1 Presentation Layer**
+
 This layer contains reactive widgets.This draw structural, platform, and interactive widgets visual components to the screen .
 [widgets](https://flutter.dev/docs/development/ui/widgets)
 
@@ -53,6 +54,7 @@ Then seprate widgets are created inorder to handle the passing of data i.e list 
 The list is using custom and sliver scroll and is scroll very smoothly
 
 **3 Data Source**
+
 Data can be reterived either local and remote source . In this project , data is coming locally within application.
 
 ### Highlights
