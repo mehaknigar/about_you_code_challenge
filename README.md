@@ -78,7 +78,9 @@ Data can be reterived either local and remote source . In this project , data is
 For this project I only used these three dependencies
 
   [cupertino_icons: ^1.0.2]
-  [ expand_widget: ^2.1.0]
+  
+  [expand_widget: ^2.1.0]
+  
   [fluttertoast: ^8.0.8]
  
  ## Question 
@@ -102,8 +104,11 @@ Once you have flutter, all you need to do is:
 A video recording is added in the screen folder and also images.
 
 **Through main page the 3 aruguments are being passed.
+
 **The constant file contains some constant variables.
-**The top_bottom_widget contain the widget for top and bottom which is expanding further and showing list of buttons
+
+**The top_bottom_widget contain the widget for top and bottom which is expanding further and showing list of buttons.
+
 **In the contact item folders, 2 files are present .The aplha group list takes the three arguments and pass it further to custom scroll and sliver and from their clicking on the contact you can view the contact.
  
 
