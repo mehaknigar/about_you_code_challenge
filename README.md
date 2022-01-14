@@ -41,7 +41,7 @@ To interact with flutter through the flutter framework as it provides a modern f
 This layer contains reactive widgets.This draw structural, platform, and interactive widgets visual components to the screen .
 [widgets](https://flutter.dev/docs/development/ui/widgets)
 
-**2 Logic **
+**2 Logic**
 
 In this project the main thing was to create a list using custom scroll view .So I created a group widget in which three arugments are being passed
 i- List
