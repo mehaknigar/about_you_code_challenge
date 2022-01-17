@@ -110,6 +110,9 @@ A video recording is added in the testscreen folder and also images.
 **The top_bottom_widget contain the widget for top and bottom which is expanding further and showing list of buttons.
 
 **In the contact item folders, 2 files are present .The aplha group list takes the three arguments and pass it further to custom scroll and sliver and from their clicking on the contact you can view the contact.
- 
+
+###Note 
+There are multiple pattern such as bloc pattern ,MVVM and provider.As per my understanding I used the custom list and made the code resuable so that this can be integerated to anyother flutter application.I followed the instruction as per to my understanding.Do let me know if I can further do anything.
+
 
 
